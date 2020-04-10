@@ -1,6 +1,6 @@
 # 主理人说
 ## 17.10.2019 更新
-0. Forked from zealson/Zure https://github.com/zealson/Zure
+0. Forked from zealson/Zure https://github.com/zealson/Zure ，现已转移至 https://github.com/Koolson/Qure ；
 1. 只新增加了自用的图标，其他均未改变；
 2. 未来会从源库进行更新；
 3. 新增加的图标来自 www.iconfont.cn；
@@ -137,5 +137,5 @@ v1.0.0<br>
 6.转载请注明出处，谢谢！<br>
 
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure_Preview.png)
-![Image text](https://raw.githubusercontent.com/zealson/Zure/master/Other/Zure_Preview.png)
+[查看大图](https://raw.githubusercontent.com/limbopro/Zure/master/Other/Zure_Preview.png)
+![Image text](https://raw.githubusercontent.com/limbopro/Zure/master/Other/Zure_Preview.png)
